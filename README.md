@@ -1,7 +1,7 @@
+# Game Demo
+
 ![Gameplay Demo](demo.gif)
 
-
-# Space War
 
 ## Game Introduction
 
